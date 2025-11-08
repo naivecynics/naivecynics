@@ -1,9 +1,6 @@
-## 👋 Hi, I'm Langchu Huang
-
-[Website](https://naivecynics.github.io/)
-
+## 👋 Hi, I'm [Langchu Huang](https://naivecynics.github.io/)
 SUSTech @ Undergraduate · NCSU @ Intern · HKUST @ Exchange · TME Lyra Lab @ Intern  
 
-🎶 Making AI better for music
+### Making AI better for MUSIC!
 
-🎬 Cinephile | ☕ Coffee lover | 🎹 Pianist
+🎬 Cinephile | ☕ Brewing Coffee | 🎹 Piano
